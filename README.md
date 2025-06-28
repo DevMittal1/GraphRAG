@@ -51,7 +51,6 @@ client = Graphragclient(
     embedding_model=your_embedding_model,
     qdrant_collection="your_collection",
     global_search="ON/OFF",
-    serper_api_key="your_serper_api_key",
     use_env_fallback="True/False",
 )
 
@@ -75,7 +74,6 @@ NEO4J_URI=neo4j://localhost:7687
 NEO4J_USERNAME=neo4j
 NEO4J_PASSWORD=your_password
 GLOBAL_SEARCH=ON
-SERPER_API_KEY=your_serper_key
 ```
 
 ---
