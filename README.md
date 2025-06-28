@@ -9,7 +9,7 @@ A lightweight Python client that combines vector search (Qdrant), graph search (
 
 - Ingest structured data into Neo4j and Qdrant
 - Hybrid retrieval combining semantic and graph context
-- Global web search fallback (via Serper)
+- Global web search fallback 
 - Compatible with LangChain LLMs and tools
 
 ---
